@@ -1,0 +1,3 @@
+C:\Users\maxma\source\repos\Heartbreaker\obj\Debug\Heartbreaker.njsprojAssemblyReference.cache
+C:\Users\maxma\source\repos\Heartbreaker\obj\Debug\Heartbreaker.njsproj.CoreCompileInputs.cache
+C:\Users\maxma\source\repos\Heartbreaker\bin\Microsoft.NodejsTools.WebRole.dll
